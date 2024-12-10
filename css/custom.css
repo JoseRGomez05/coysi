@@ -37,7 +37,7 @@ ul {
     list-style: none;
 }
 #hero {
-    background-image:url(../imag/COYSI.jpg);
+    background-image:url(../imag/1.jpg);
     height: 350px;
     background-size: cover;
 }
@@ -131,7 +131,7 @@ ul {
     background-image: url(../imag/th.jpeg);
 }
 .icono3 {
-    background-image: url(../imag/COYSI2.jpg);
+    background-image: url(../imag/1.jpg);
 }
 
 #lista-cursos .row {
